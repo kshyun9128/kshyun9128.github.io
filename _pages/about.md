@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Ph.D. Student</p>
     <p>Soongsil University.</p>
-    <p>Vision and Machine Learning Lab</p>
+    <p>Vision and Machine Learning Lab.</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -25,10 +25,8 @@ social: true # includes social icons at the bottom of the page
   Additionally, I am interested in developing `OpenGL-based 3D graphics` to improve visualization techniques and support medical image analysis in clinical applications.  
 </p>
 
-<p>
-  ## Education 
-   - **Integrated Ph.D. Student in Computer science and Engineering** (2023.03 - Present)
-    School of Software, Soongsil University
-    - **B.S. in Computer science and Engineering** (2019.03 - 2023.02)
-    School of Software, Soongsil University 
-</p>
+## Education 
+   - **Integrated Ph.D. Student in Computer science and Engineering** (2023.03 - Present)  
+      School of Software, Soongsil University  
+   - **B.S. in Computer science and Engineering** (2019.03 - 2023.02)  
+      School of Software, Soongsil University

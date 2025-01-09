@@ -22,7 +22,9 @@ I am a PhD student conducting research in the [Vision and Machine Learning lab.]
 My research focuses on `medical AI and explainable AI`. I am interested in research for `medical image analysis`(Segmentation, Deformable Image Registration) and `robust AI`(Adversarial Defense).
 
 Additionally, I am interested in developing `OpenGL-based 3D graphics` to improve visualization techniques and support medical image analysis in clinical applications.  
-
+  
+  
+      
 ## **Education**
    - **Integrated Ph.D. Student** (2023.03 - Present)  
       Computer science and Engineering, School of Software, Soongsil University  

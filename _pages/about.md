@@ -17,8 +17,18 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a PhD student conducting research in the [Vision and Machine Learning lab.](https://sites.google.com/view/vmllab) 
+<p>
+  I am a PhD student conducting research in the [Vision and Machine Learning lab.](https://sites.google.com/view/vmllab) 
+  
+  My research focuses on `medical AI and explainable AI`. I am interested in research for `medical image analysis`(Segmentation, Deformable Image Registration) and `robust AI`(Adversarial Defense).
+  
+  Additionally, I am interested in developing `OpenGL-based 3D graphics` to improve visualization techniques and support medical image analysis in clinical applications.  
+</p>
 
-My research focuses on `medical AI and explainable AI`. I am interested in research for `medical image analysis`(Segmentation, Deformable Image Registration) and `robust AI`(Adversarial Defense).
-
-Additionally, I am interested in developing `OpenGL-based 3D graphics` to improve visualization techniques and support medical image analysis in clinical applications.
+<p>
+  ## Education 
+   - **Integrated Ph.D. Student in Computer science and Engineering** (2023.03 - Present)
+    School of Software, Soongsil University
+    - **B.S. in Computer science and Engineering** (2019.03 - 2023.02)
+    School of Software, Soongsil University 
+</p>

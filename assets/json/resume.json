@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Sohyun Kim",
-    "label": "",
+    "birth": "December 28th, 1999",
     "image": "",
     "email": "kshyun9128@soongsil.ac.kr",
     "phone": "",
@@ -53,32 +53,22 @@
       "summary": "Computer Methods and Programs in Biomedicine 255 (2024): 108367."
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing"
-      ]
-    }
-  ],
   "interests": [
     {
       "name": "Medical AI",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing"
+        "Multi Organ Segmentation",
+        "Registration(DIR; Deformable Image Registration)",
+        "Lesion Detection, Anomaly Detection"
       ]
     },
     {
       "name": "Explainable AI",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing"
+        "Evidential Learning",
+        "Robust AI(Adversarial Defense)"
       ]
     }
   ]

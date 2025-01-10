@@ -9,8 +9,8 @@ profile:
   image: ksh_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ph.D. Student</p>
-    <p>Soongsil University</p>
+    <p>Ph.D. Student  </p>
+    <p>Soongsil University  </p>
     <p>Vision and Machine Learning Lab.</p>
 
 news: false # includes a list of news items

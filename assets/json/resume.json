@@ -53,6 +53,12 @@
       "summary": "Computer Methods and Programs in Biomedicine 255 (2024): 108367."
     }
   ],
+  "Academic Services": [
+    {
+      "name": "Reviewer of IEEE Transactions on Medical Imaging",
+      "icon": "fa-solid fa-tag",
+    },
+  ],
   "interests": [
     {
       "name": "Medical AI",
@@ -71,11 +77,5 @@
         "Robust AI(Adversarial Defense)"
       ]
     }
-  ],
-    "Academic Services": [
-    {
-      "name": "Reviewer of IEEE Transactions on Medical Imaging",
-      "icon": "fa-solid fa-tag",
-    },
   ]
 }

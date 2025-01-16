@@ -71,5 +71,11 @@
         "Robust AI(Adversarial Defense)"
       ]
     }
+  ],
+    "Academic Services": [
+    {
+      "name": "Reviewer of IEEE Transactions on Medical Imaging",
+      "icon": "fa-solid fa-tag",
+    },
   ]
 }

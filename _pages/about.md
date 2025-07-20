@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>Ph.D. Student  </p>
     <p>Soongsil University  </p>
-    <p>Vision and Machine Learning Lab.</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
